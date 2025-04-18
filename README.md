@@ -1,0 +1,1 @@
+# Calculadora de IMC feita com React e Vite
